@@ -1,0 +1,45 @@
+* {
+  font-family: "Poppins";
+  list-style: none;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #DAFFF0;
+}
+
+.carousel-item {
+  position: relative;
+}
+
+.left-container {
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  color:white;
+}
+
+.left-container h2 {
+  font-size: 38px;
+}
+
+.cta {
+  height: 75vh;
+  background-image: url("cta.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.container-contact {
+  width: 100%;
+  /* height: 100vh; */
+  background-image: url("image 20.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
